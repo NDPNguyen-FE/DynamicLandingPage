@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Syne', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 6px 9px rgba(0, 0, 0, 0.6);
+}
+
+body {
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-shadow: 3px 6px 9px rgba(0, 0, 0, 0.6);
+}
+
+#greeting {
+    font-size: 6rem;
+    margin-top: 4rem;
+    font-weight: 700;
+}
+
+#time {
+    font-size: 4rem;
+    font-family: 'Lora', serif;
+}
+
+#datePre {
+    margin-top: 1.5rem;
+}
