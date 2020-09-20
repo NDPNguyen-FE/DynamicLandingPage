@@ -1,2 +1,2 @@
 # DynamicLandingPage
-timepage.surge.sh
+https://timepage.surge.sh/
